@@ -19,10 +19,10 @@ This is the MIDI Keyboard. It is a small hand-held device that creates musical s
 |SW1, SW2, SW3|Kailh Choc Low-Profile Switches|3|SW_Push|$6.04|[Link](https://www.aliexpress.com/item/1005008883418065.html?spm=a2g0o.productlist.main.1.13d14a7e068OmL&algo_pvid=4e5fe6cd-3562-4ef4-ac3e-085a2d4634fe&algo_exp_id=4e5fe6cd-3562-4ef4-ac3e-085a2d4634fe-0&pdp_ext_f=%7B%22order%22%3A%221475%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%2111.40%212.38%21%21%217.81%211.63%21%402103128917919263557114360e0ebd%2112000047082945007%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A778dde27%3Bm03_new_user%3A-29895%3BpisId%3A5000000218640848&curPageLogUid=CXjsh9TOCyFt&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008883418065%7C_p_origin_prod%3A)|
 |SW4|RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm|1|RotaryEncoder_Switch_MP|$1.44|[Link](https://www.aliexpress.us/item/3256807457768762.html?spm=a2g0o.productlist.main.1.52d22c6as0ZCnv&algo_pvid=9965a6c7-9d4c-44f9-a2d4-a43aa1b0ae45&algo_exp_id=9965a6c7-9d4c-44f9-a2d4-a43aa1b0ae45-0&pdp_ext_f=%7B%22order%22%3A%224739%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.52%211.40%21%21%211.52%211.40%21%402101e7a317919489056767943e0e88%2112000041630839409%21sea%21US%213725344934%21X%211%210%21n_tag%3A-29919%3Bd%3A1bb91aa6%3Bm03_new_user%3A-29895%3BpisId%3A5000000219770668&curPageLogUid=AOe3dpbqRVrY&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007644083514%7C_p_origin_prod%3A)|
 |U1|Waveshare ESP32-S3-Zero|1|Waveshare ESP32-S3-ZERO|$6.62|[Link](https://www.aliexpress.com/item/1005007004089798.html?src=google&gatewayAdapt=4itemAdapt)|
-|||Total Parts Cost|$19.59||
+|||Total Parts Cost|$17.46||
 |||Total Digikey Cost-Not using fast shipping|$8.67||
 |||Total JLCPCB|$12.20||
-|||Total Cost|$40.46||
+|||Total Cost|$38.33||
 
 # Process:
 <img width="1012" height="534" alt="Screenshot 2026-10-23 at 12 02 36 PM" src="https://github.com/user-attachments/assets/1480e497-b76f-419c-af2f-a73459ccf5cd" />
