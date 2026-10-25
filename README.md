@@ -21,6 +21,8 @@ This is the MIDI Keyboard. It is a small hand-held device that creates musical s
 |U1|Waveshare ESP32-S3-Zero|1|Waveshare ESP32-S3-ZERO|$6.62|[Link](https://www.aliexpress.com/item/1005007004089798.html?src=google&gatewayAdapt=4itemAdapt)|
 |||Total Parts Cost|$19.59||
 |||Total Digikey Cost-Not using fast shipping|$8.67||
+|||Total JLCPCB|$12.20||
+|||Total Cost|$40.46||
 
 # Process:
 <img width="1012" height="534" alt="Screenshot 2026-10-23 at 12 02 36 PM" src="https://github.com/user-attachments/assets/1480e497-b76f-419c-af2f-a73459ccf5cd" />
