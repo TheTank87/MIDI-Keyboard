@@ -36,4 +36,13 @@ After that as fixed, I then went into the PCB editor and created my first design
 However, there was a major flaw in this design, that is, the wiring of the waveshare was not efficient and the entire layout was doomed to be messy. So I had to go back the schematic editor and redo the wiring so that it fits with a better layout.
 <img width="776" height="468" alt="Screenshot 2026-10-24 at 4 33 40 PM" src="https://github.com/user-attachments/assets/8d7a2599-b783-4eb5-866f-6d2a85521d26" />
 
-As one can see, everything now wires up more cleanly. Insert crying emoji...
+As one can see, everything now wires up more cleanly. Insert crying-relief emoji...
+# Adding 3D Models and Decorations
+<img width="723" height="387" alt="3DRenderFrontWeek3" src="https://github.com/user-attachments/assets/503f901b-b736-4afa-8106-386f96c5bc58" />
+
+I got the 3D models from the guide repo, and everything was pretty straight forward. It was pretty easy to figure out that you need to align the ports from the 3D model through the holes in the PCB. There was a mishap with the rotary encoder where rotating the x and z produced same side rotations which was not supposed to happen. So I had to restart kicad.
+
+I then decided to add some silkscreen to my builds.
+<img width="445" height="501" alt="Silkscreen" src="https://github.com/user-attachments/assets/9a5b24d3-3c5f-49b3-b623-173301946f1c" />
+
+
