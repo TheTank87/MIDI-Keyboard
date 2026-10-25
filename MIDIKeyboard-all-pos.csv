@@ -1,0 +1,12 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D1","SK6812MINI-E","LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",97.500000,-38.625000,0.000000,top
+"D2","SK6812MINI-E","LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",114.387500,-38.500000,0.000000,top
+"D3","SK6812MINI-E","LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount",131.275000,-38.750000,0.000000,top
+"J1","Conn_01x07","Capacitative Keys",145.500000,-66.000000,0.000000,top
+"RV1","Slider","Potentiometer_Bourns_PTA1543_Single_Slide",172.980000,-38.250000,0.000000,top
+"RV2","Slider","Potentiometer_Bourns_PTA1543_Single_Slide",173.150000,-52.550000,0.000000,top
+"SW1","SW_Push","Kailh Choc Low-Profile Switches",98.000000,-59.600000,0.000000,top
+"SW2","SW_Push","Kailh Choc Low-Profile Switches",115.000000,-59.600000,0.000000,top
+"SW3","SW_Push","Kailh Choc Low-Profile Switches",132.500000,-59.600000,0.000000,top
+"SW4","RotaryEncoder_Switch_MP","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",151.000000,-39.000000,0.000000,top
+"U1","Waveshare ESP32-S3-ZERO","Waveshare ESP32-S3-Zero",240.920000,-53.380000,-90.000000,top
