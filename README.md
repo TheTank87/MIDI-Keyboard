@@ -45,4 +45,8 @@ I got the 3D models from the guide repo, and everything was pretty straight forw
 I then decided to add some silkscreen to my builds.
 <img width="445" height="501" alt="Silkscreen" src="https://github.com/user-attachments/assets/9a5b24d3-3c5f-49b3-b623-173301946f1c" />
 
+# Firmware & Other Additions
 
+I also needed the circuit python for my board, so I went and downloaded the code.py and made changes to where the pins were wired so that it fits my board schematic. It turns out that I didn't need Ardunio IDE for this one as it's just using notepad and turning it into a .py file. 
+
+From past experiences, I also needed to add a whole lot more files not listed in the guide checklist on the HalfLife website. Which includes all my PCB files, the .pro file, and either a .cpl or .csv listing out all the positions of the components. I then reorganized the repo into folders. 
