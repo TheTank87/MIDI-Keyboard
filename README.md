@@ -22,7 +22,7 @@ This is the MIDI Keyboard. It is a small hand-held device that creates musical s
 |||Total Parts Cost|$19.59||
 |||Total Digikey Cost-Not using fast shipping|$8.67||
 
-KiCad Schematic:
+# Process:
 <img width="1012" height="534" alt="Screenshot 2026-10-23 at 12 02 36 PM" src="https://github.com/user-attachments/assets/1480e497-b76f-419c-af2f-a73459ccf5cd" />
 
 I started with the schematic design of my PCB and wired up everything using the guide as reference. However, I did make a mistake of accidentally swapping the TX and RX ports so I fixed that asap.
