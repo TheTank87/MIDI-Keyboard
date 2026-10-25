@@ -21,3 +21,17 @@ This is the MIDI Keyboard. It is a small hand-held device that creates musical s
 |U1|Waveshare ESP32-S3-Zero|1|Waveshare ESP32-S3-ZERO|$6.62|[Link](https://www.aliexpress.com/item/1005007004089798.html?src=google&gatewayAdapt=4itemAdapt)|
 |||Total Parts Cost|$19.59||
 |||Total Digikey Cost-Not using fast shipping|$8.67||
+
+KiCad Schematic:
+<img width="1012" height="534" alt="Screenshot 2026-10-23 at 12 02 36 PM" src="https://github.com/user-attachments/assets/1480e497-b76f-419c-af2f-a73459ccf5cd" />
+
+I started with the schematic design of my PCB and wired up everything using the guide as reference. However, I did make a mistake of accidentally swapping the TX and RX ports so I fixed that asap.
+<img width="740" height="171" alt="Screenshot 2026-10-23 at 4 56 44 PM" src="https://github.com/user-attachments/assets/7ab3ac1f-b125-4471-924f-8586148ff675" />
+
+After that as fixed, I then went into the PCB editor and created my first design.
+<img width="1012" height="534" alt="Screenshot 2026-10-23 at 11 55 53 AM" src="https://github.com/user-attachments/assets/1343e66f-20fc-4bfe-ada4-2fb643c81be1" />
+
+However, there was a major flaw in this design, that is, the wiring of the waveshare was not efficient and the entire layout was doomed to be messy. So I had to go back the schematic editor and redo the wiring so that it fits with a better layout.
+<img width="776" height="468" alt="Screenshot 2026-10-24 at 4 33 40 PM" src="https://github.com/user-attachments/assets/8d7a2599-b783-4eb5-866f-6d2a85521d26" />
+
+As one can see, everything now wires up more cleanly. Insert crying emoji...
